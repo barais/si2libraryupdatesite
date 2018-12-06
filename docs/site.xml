@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/si2libraryfeature_1.0.0.201812061443.jar" id="si2libraryfeature" version="1.0.0.201812061443">
+      <category name="si2libraries"/>
+   </feature>
+   <category-def name="si2libraries" label="si2libraries"/>
+</site>
